@@ -1,0 +1,9 @@
+{
+    "extends": ["standard", "prettier"],
+    "env": {
+        "es6": true
+    },
+    "rules": {
+        "no-vars": 0
+    }
+}
